@@ -9,6 +9,8 @@ document.querySelector("#app").innerHTML = `
   テストホスティング1</h1>
   <h1>
   テストホスティング2</h1>
+  <h1>
+  テストホスティング3</h1>
     <a href="https://vitejs.dev" target="_blank">
       <img src="${viteLogo}" class="logo" alt="Vite logo" />
     </a>
